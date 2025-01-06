@@ -20,8 +20,7 @@ Rain Alert es una aplicación que te notifica cuando hay probabilidad de lluvia 
 - Bibliotecas adicionales (ver archivo `requirements.txt`).
 
 ---
-
-[img-alert!](https://github.com/andresAc99/Rain_alert/blob/7cac68a88af619ac7f2cd4a6c84b58f49a371af3/Estructura%20y%20proceso%20weather.png)
+![my-img](https://github.com/andresAc99/Rain_alert/blob/7cac68a88af619ac7f2cd4a6c84b58f49a371af3/Estructura%20y%20proceso%20weather.png)
 
 ## ⚙️ Instalación
 
